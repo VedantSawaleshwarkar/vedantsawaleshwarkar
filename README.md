@@ -1,25 +1,94 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQFJimUSTnwveQ/article-cover_image-shrink_600_2000/0/1630496407547?e=2147483647&v=beta&t=gDkf8noaAvHmzwBLONSyRRvXTTbroVKtpcZ39PbSy_E)
-<h1 align="center">Hi 👋, I'm Vedant Sawaleshwarkar</h1>
-<h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
+![Banner](https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/7b8f5e7ef6fc622a9cc92e2c9f25c6de.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedrs&label=Profile%20views&color=0e75b6&style=flat" alt="vedrs" /> </p>
+<h1 align="center">✨ Hi, I'm Vedant Sawaleshwarkar ✨</h1>
+<h3 align="center">💻 Final Year CSE Student | 🌐 Web Developer | 🖥️ Server Manager Intern | 🚀 AI & Systems Enthusiast</h3>
 
-
-- 🌱 I’m currently learning **DSA and JAVA**
-
-- 💬 Ask me about **HTML CSS JS**
-
-- 📫 How to reach me **vedantsawaleshwarkar@gmail.com**
-
-- ⚡ Fun fact **Always try to learn more**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritesh chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh chavan" height="30" width="40" /></a>
-<a href="https://instagram.com/ritesh_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh_cs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/artical 19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="artical 19" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VedantSawaleshwarkar&label=Profile%20views&color=0e75b6&style=flat" alt="VedantSawaleshwarkar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="right">
+  <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 **Final Year CSE Student** passionate about **software development, server infrastructure, and AI-powered systems**
+* 💻 Developer of the official website for **ByteFest 2K25**
+* 🖥️ Internship: **Server Manager** at *COSS Institute of Computer Education, Latur*
+* 🚀 Currently exploring **cloud computing, system design, and scalable architectures**
+* 🌟 Motto: *“Build practical solutions, learn endlessly, and grow with every challenge.”*
+
+---
+
+## 🧰 Tech Arsenal
+
+**Languages** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+**Frontend** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge\&logo=leaflet\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+**Backend & APIs** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express\&logoColor=white)
+
+**Databases & Tools** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-555555?style=for-the-badge\&logo=postgis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📌 Highlighted Projects
+
+| 🚀 Project                                       | 💬 Description                                                                                                                | 🔗 Links                                                                                                |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **ByteFest 2K25**                                | A full-stack web platform for a college tech fest, featuring event listings, user registration, and real-time result updates. | [Live](https://bytefest2k25.netlify.app) • [Repo](https://github.com/VedantSawaleshwarkar/ByteFest2K25) |
+| **Agriculture Management System (DBMS Project)** | A database project managing admin, sellers, customers, products, and purchase orders for scalable agri-trade.                 | [Repo](https://github.com/VedantSawaleshwarkar/Agriculture-Management-System)                           |
+| **Real-Time Object Detection (CNN)**             | A computer vision project detecting objects in real-time using CNNs and deployed as a live demo.                              | [Repo](https://github.com/VedantSawaleshwarkar/Real-Time-Object-Detection)                              |
+| **Pneumonia Detection with Grad-CAM**            | ML model using CNNs with Grad-CAM visualization to classify pneumonia in chest X-rays.                                        | [Repo](https://github.com/VedantSawaleshwarkar/Pneumonia-Detection-GradCAM)                             |
+| **Placement Prep Portal**                        | Aptitude + Python practice questions with form-based evaluation, designed for Tesla & OpenAI prep.                            | [Repo](https://github.com/VedantSawaleshwarkar/Placement-Prep-Portal)                                   |
+| **DSA Practice**                                 | Repository containing structured Data Structures & Algorithms practice problems in C, C++, and Python.                        | [Repo](https://github.com/VedantSawaleshwarkar/DSA-Practice)                                            |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantSawaleshwarkar&show_icons=true&theme=tokyonight" width="350px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantSawaleshwarkar&theme=tokyonight" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantSawaleshwarkar&layout=compact&theme=tokyonight" width="350px"/>
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+* 🤖 Generative AI, LLMs & RAG Systems
+* 🛠️ DevOps Tools – Docker, GitHub Actions, CI/CD
+* 🌐 Web Mapping & Geospatial Tech (PostGIS + Leaflet.js)
+* ⚡ System Design, Networking & Server Administration
+
+---
+
+## 🌐 Connect with Me
+
+<a href="mailto:vedantsawaleshwarkar@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/vedant-sawaleshwarkar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+---
+
+## 🧠 Fun Fact
+
+> From managing servers during **MHT CET exams** to building **AI projects & fest websites**, I believe every challenge is just another step toward innovation 🚀
+
+---
+
+![Coder Banner](https://i.pinimg.com/originals/0f/ff/3e/0fff3ecb7e2a7dd4e9c1c00761a7ee66.gif)
